@@ -1,0 +1,2 @@
+NMI of hierarchical clustering
+0.6470
